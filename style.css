@@ -1,0 +1,56 @@
+div{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: 75vh;
+    text-align: center;
+    margin: 100px;
+    margin-left: 25%;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+
+h1 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: rgb(180, 124, 3);
+}
+.bt {
+  background-color: #222;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0;
+  max-width: none;
+  min-height: 44px;
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+
+#enter{
+    width: 180px;
+    height: 24px;
+    border-radius: 5px;
+    padding: 14px 30px;
+    border: 2px solid lightgray;
+    font-size: 16px;
+}
